@@ -10,6 +10,9 @@ namespace _2_3_uzduotis
     {
         static void Main(string[] args)
         {
+            /*Susikurkite skaičiaus kintamąjį, kurį išveskite penkis kartus toje pačioje eilutėje be tarpų 
+             * tarp šių skaičių (skaičius - 25, išvedimas - 2525252525).*/
+
             var skaicius = 25;
             Console.Write(skaicius);
             Console.Write(skaicius);

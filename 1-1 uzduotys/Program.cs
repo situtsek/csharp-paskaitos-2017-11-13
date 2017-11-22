@@ -10,17 +10,20 @@ namespace _1_1_uzduotys
     {
         static void Main(string[] args)
         {
-            var vardas = "Kestutis";
-            var pavarde = "Milutis";
-            var amzius = 39;
-            var ugis = 1.78f;
-            var svoris = 80; // kg
-            var aukstoji_mokykla = "VUKHF";
-            var akademines_grupes_kodas = 'A';
-            var kursas = 2;
-            var studiju_programos_pavadinimas = "vadyba";
-            var atsiskaitymu_kreditu_skaicius = 5;
             
+
+            var vardas = "kestutis";
+            var pavarde = "milutis";
+            var amzius = 39;
+            var ugis = 1.85f;
+            var svoris = 80; // kg
+            var aukstoji_mokykla = "vukhf";
+            var kursas = 5;
+            var akademine_grupe = 'a';
+            var studiju_programa = "vadyba";
+            var kreditai = 160;
+
+      
         }
     }
 }

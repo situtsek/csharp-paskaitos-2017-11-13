@@ -12,6 +12,7 @@ namespace _17_1_1_1_Ukininkai_Primilzio_nuokripis
         {
             List<double> primilziai = new List<double>();
             // kviesti metodus cia
+
             var programa = new Program();
             programa.Ivedimas(primilziai);
             programa.Isvedimas(primilziai);
@@ -22,10 +23,10 @@ namespace _17_1_1_1_Ukininkai_Primilzio_nuokripis
 
 
         }
-        // ivedimo metodas
+            // ivedimo metodas
 
             public void Ivedimas(List<double> primilziai)
-        {
+            {
             Console.WriteLine("Iveskite primilziu kieki:");
             var kiek = Convert.ToInt32(Console.ReadLine());
 
@@ -34,19 +35,20 @@ namespace _17_1_1_1_Ukininkai_Primilzio_nuokripis
                 // iveskite skaiciu
                 primilziai.Add(Convert.ToDouble(Console.ReadLine()));
             }
-        }
+            }
 
-        public void Isvedimas(List<double> primilziai)
-        {
+            // Isvedimo metodas
+
+            public void Isvedimas(List<double> primilziai)
+            {
 
             foreach (var primilzis in primilziai)
             {
-                Console.WriteLine(primilziai);
+                Console.WriteLine(primilzis + " 1 ");
             }
-                
-        
+         }
 
-        }
+        // min, max, average metoda
 
         public double Maziausias(List<double> primilziai)
         {
@@ -61,7 +63,7 @@ namespace _17_1_1_1_Ukininkai_Primilzio_nuokripis
             return primilziai.Average();
         }
 
-
+        // rasti du didziausius primilzius
     }
 }
 

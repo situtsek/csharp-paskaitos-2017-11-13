@@ -11,19 +11,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 aritmetiniai veiksmai", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 ivedimas", "04 ivedimas", "{8D06A582-C130-408F-9C70-F759B0CB3CC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-1 uzduotis", "1-1 uzduotys\1-1 uzduotis.csproj", "{43CB11FF-5813-4A53-9278-CC05E69F1065}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-1 uzduotis, OK+", "1-1 uzduotys\1-1 uzduotis, OK+.csproj", "{43CB11FF-5813-4A53-9278-CC05E69F1065}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-1 uzduotis", "ConsoleApp1\2-1 uzduotis.csproj", "{561D70D6-DC77-4E32-AB11-936920D6EB78}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-1 uzduotis, OK+, 53 skaidre", "ConsoleApp1\2-1 uzduotis, OK+, 53 skaidre.csproj", "{561D70D6-DC77-4E32-AB11-936920D6EB78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-2 uzduotis", "2-2 uzduotis\2-2 uzduotis.csproj", "{9FF813BB-5343-460C-A726-B215631D7670}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-2 uzduotis, OK+, 53 skaidre", "2-2 uzduotis\2-2 uzduotis, OK+, 53 skaidre.csproj", "{9FF813BB-5343-460C-A726-B215631D7670}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-3 uzduotis", "2-3 uzduotis\2-3 uzduotis.csproj", "{2B621B3C-AC41-44C4-8EDF-57722C1992BF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-3 uzduotis, OK+, 53 skaidre", "2-3 uzduotis\2-3 uzduotis, OK+, 53 skaidre.csproj", "{2B621B3C-AC41-44C4-8EDF-57722C1992BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-4 uzduotis", "2-4 uzduotis\2-4 uzduotis.csproj", "{D0486263-480F-4DC6-B3AA-80D8A01D198D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-4 uzduotis, OK+, 53 skaidre", "2-4 uzduotis\2-4 uzduotis, OK+, 53 skaidre.csproj", "{D0486263-480F-4DC6-B3AA-80D8A01D198D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-5 uzduotis", "2-5 uzduotis\2-5 uzduotis.csproj", "{509B8FB2-E3B2-409E-AFEF-3B070488C58D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-5 uzduotis, OK+, 54 skaidre", "2-5 uzduotis\2-5 uzduotis, OK+, 54 skaidre.csproj", "{509B8FB2-E3B2-409E-AFEF-3B070488C58D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-6 uzduotis", "2-6 uzduotis\2-6 uzduotis.csproj", "{C4F82645-BAAE-4CEF-B9E1-D4AA06507618}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-6 uzduotis, OK+, 54 skaidre", "2-6 uzduotis\2-6 uzduotis, OK+, 54 skaidre.csproj", "{C4F82645-BAAE-4CEF-B9E1-D4AA06507618}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-1 uzduotis", "3-1 uzduotis\3-1 uzduotis.csproj", "{A2587C7B-A054-48B8-BB52-BA8677FD2062}"
 EndProject
@@ -122,6 +122,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17-1-1 METODAI", "17-1-1 METODAI\17-1-1 METODAI.csproj", "{60D287CA-7A6A-4B97-9715-6B583E410511}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17-1-1-1 Ukininkai_Primilzio nuokripis", "17-1-1-1 Ukininkai_Primilzio nuokripis\17-1-1-1 Ukininkai_Primilzio nuokripis.csproj", "{091DC733-9E39-4034-B30E-6B9F29AB08ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16-6 Klases", "16-6 Klases\16-6 Klases.csproj", "{DE07B8B1-396F-4AF9-9226-C6AC54D8411B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16 Masinos", "16 Pavydziai\16 Masinos.csproj", "{D1A7CB2F-F44E-4386-87F6-5C2537B5B614}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -345,6 +349,14 @@ Global
 		{091DC733-9E39-4034-B30E-6B9F29AB08ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{091DC733-9E39-4034-B30E-6B9F29AB08ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{091DC733-9E39-4034-B30E-6B9F29AB08ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE07B8B1-396F-4AF9-9226-C6AC54D8411B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE07B8B1-396F-4AF9-9226-C6AC54D8411B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE07B8B1-396F-4AF9-9226-C6AC54D8411B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE07B8B1-396F-4AF9-9226-C6AC54D8411B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1A7CB2F-F44E-4386-87F6-5C2537B5B614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1A7CB2F-F44E-4386-87F6-5C2537B5B614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1A7CB2F-F44E-4386-87F6-5C2537B5B614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1A7CB2F-F44E-4386-87F6-5C2537B5B614}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

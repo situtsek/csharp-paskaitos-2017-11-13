@@ -10,9 +10,13 @@ namespace _2_2_uzduotis
     {
         static void Main(string[] args)
         {
+            /*Susikurkite kintamąjį žmogaus amžiui nusakyti, išveskite į ekraną tekstą su šiuo amžiumi: 
+             * “Įvestas amžius: {amžius}”. Tarp {} nurodytas kintamasis, kurio reikšmė toje vietoje turi būti 
+             * įstatyta.*/
+
             var metai = 39;
             Console.WriteLine("Ivestas amžius: " + metai);
-            
+            Console.WriteLine("ivestas amzius {0}", metai);
         }
     }
 }

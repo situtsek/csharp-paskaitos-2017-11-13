@@ -10,9 +10,13 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+
+            /*Parašykite programą, kuri išvestų žodį “Labas” ir  jūsų vardą toje pačioje eilutėje.*/
+
             var vardas = "Kęstutis";
             Console.WriteLine("LABAS " + vardas);
-                     
+            
+            Console.ReadLine();
         }
     }
 }
