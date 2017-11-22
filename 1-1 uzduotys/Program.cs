@@ -20,8 +20,7 @@ namespace _1_1_uzduotys
             var kursas = 2;
             var studiju_programos_pavadinimas = "vadyba";
             var atsiskaitymu_kreditu_skaicius = 5;
-
-
+            
         }
     }
 }

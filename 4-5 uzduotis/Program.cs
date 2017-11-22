@@ -4,15 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace _4_5_uzduotis
 {
     class Program
     {
         static void Main(string[] args)
         {
-            var vardas = "Kęstutis";
-            Console.WriteLine("LABAS " + vardas);
-                     
+            Console.WriteLine("iveskite sveikaji skaiciu");
+            var skaicius = Convert.ToInt32(Console.ReadLine());
+
         }
     }
 }
+

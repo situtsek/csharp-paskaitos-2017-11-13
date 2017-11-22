@@ -4,15 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace _02_uzduotis
 {
     class Program
     {
         static void Main(string[] args)
         {
-            var vardas = "Kęstutis";
-            Console.WriteLine("LABAS " + vardas);
-                     
+
+            Console.WriteLine("ivesk amziu");
+            var amzius = Convert.ToInt32(Console.ReadLine());
         }
     }
 }

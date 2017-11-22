@@ -4,15 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace _2_5_uzduotis
 {
     class Program
     {
         static void Main(string[] args)
         {
-            var vardas = "Kęstutis";
-            Console.WriteLine("LABAS " + vardas);
-                     
+            Console.WriteLine("****");
+            Console.WriteLine("*  *");
+            Console.WriteLine("*  *");
+            Console.WriteLine("****");
+            
         }
     }
 }
